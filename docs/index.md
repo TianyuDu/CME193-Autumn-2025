@@ -1,6 +1,6 @@
 ## Introduction to Scientific Python
 
-**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md))
+**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md)
 
 ## Course Description
 This one-unit workshop is aimed at students who already know how to program (CS106A or equivalent) and want to become fluent in the scientific Python stack. Each 50-minute meeting highlights real scientific-computing workflows with live coding in Google Colab. We will practice with NumPy, SciPy, pandas, scikit-learn, PyTorch, and companion tools drawn from linear algebra, optimization, machine learning, and data science.
@@ -24,6 +24,9 @@ Expect to work with linear algebra, optimization, statistics, or similar scienti
 
 ## Format
 CME193 meets for 9 weeks this autumn quarter, 50 minutes per week. Sessions are hands-on and use shared Google Colab notebooks so you can experiment with the code as we go. In-lecture exercises at the end of each meeting reinforce the techniques introduced that day. Please refer to the [Class Schedule](schedule.md) for the detailed schedule.
+
+## Software
+During the course, we will mainly be using Jupyter Notebook. Jupyter Notebooks can either be run locally (e.g., using Anaconda) or in the cloud (e.g., using Google Colab). Please refer to the [Software](software.md) page for more details. We will be distributing the lecture materials as Google Colab notebooks, but you are welcome to download them and run them locally.
 
 ## Grading
 - The course is credit/no-credit and includes two graded homework assignments.
