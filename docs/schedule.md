@@ -7,25 +7,25 @@ We focus on the slice of Python that powers scientific computing and data scienc
 
 ## Lecture Schedule and Outline
 - **Week 1 (Wednesday, 09/24): Python Basics**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
 - **Week 2 (Wednesday, 10/01): Object-Oriented Programming in Python**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
 - **Week 3 (Wednesday, 10/08): Introduction to NumPy**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
 - **Week 4 (Wednesday, 10/15): Linear Algebra with NumPy**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
 - **Week 5 (Wednesday, 10/22): Introduction to pandas**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
 - **Week 6 (Wednesday, 10/29): Introduction to SciPy**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
 - **Week 7 (Wednesday, 11/05): Introduction to scikit-learn**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
-  Additional Resource: [Hands-on Machine Learning companion notebooks](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
+  Additional Resource: [Hands-on Machine Learning companion notebooks (TO BE ADDED)](TO BE ADDED)
 - **Week 8 (Wednesday, 11/12): Deep Learning with PyTorch**
-  Lecture: [Colab notebook](TO BE ADDED)
-  Supplement: [Neural network slides](TO BE ADDED)
+  Lecture: [Colab notebook (TO BE ADDED)](TO BE ADDED)
+  Supplement: [Neural network slides (TO BE ADDED)](TO BE ADDED)
 - **Week 9 (Wednesday, 11/19): Introduction to Transformers**
-  Lecture Notes: [Colab notebook](TO BE ADDED)
+  Lecture Notes: [Colab notebook (TO BE ADDED)](TO BE ADDED)
 - **Week 10 (Wednesday, 11/26): Thanksgiving Break, No Class.**
 - **Week 11 (Wednesday, 12/03): End of Quarter Period, No Class.**
 
