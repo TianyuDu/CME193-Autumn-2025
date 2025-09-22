@@ -1,6 +1,6 @@
-# Syllabus
+# Class Schedule
 
-**Pages:** [Course Description](index.md) · [Syllabus](syllabus.md) · [Homework](homework.md) · [Getting Started](getting-started.md) · [Local Jupyter](local-jupyter.md)
+Note: this course schedule is tentative and subject to change.
 
 ## Overview
 We focus on the slice of Python that powers scientific computing and data science. Plan on eight fast-paced lectures; links below point to the live Colab notebooks so you can follow along during class or review afterward. Expect minor adjustments as the quarter progresses—check back for updates.
