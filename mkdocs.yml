@@ -36,9 +36,9 @@ nav:
   - Home: index.md
   - Schedule: schedule.md
   - Homework: homework.md
-  - Local Jupyter: local-jupyter.md
   - Google Colab: google-colab.md
   - Software: software.md
+  - Local Jupyter: local-jupyter.md
 
 plugins:
   - search
@@ -64,4 +64,4 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-strict: false
+strict: true

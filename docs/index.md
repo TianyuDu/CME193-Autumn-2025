@@ -1,6 +1,6 @@
 ## Introduction to Scientific Python
 
-**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md)
+**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Google Colab](google-colab.md) · [Software](software.md) · [Local Jupyter](local-jupyter.md)
 
 ## Course Description
 This one-unit workshop is aimed at students who already know how to program (CS106A or equivalent) and want to become fluent in the scientific Python stack. Each 50-minute meeting highlights real scientific-computing workflows with live coding in Google Colab. We will practice with NumPy, SciPy, pandas, scikit-learn, PyTorch, and companion tools drawn from linear algebra, optimization, machine learning, and data science.
@@ -17,7 +17,7 @@ This one-unit workshop is aimed at students who already know how to program (CS1
 
 ## Prerequisites
 ### Programming
-This course is recommended for students who are familiar with programming at least at the level of CS106A and want to translate their programming knowledge to Python with the goal of becoming proficient in the scientific computing and data science stack. Lectures will be interactive with a focus on real world applications of scientific computing. Technologies covered include Numpy, SciPy, Pandas, Scikit-learn, and others. Topics will be chosen from Linear Algebra, Optimization, Machine Learning, and Data Science. Prior knowledge of programming will be assumed, and some familiarity with Python is helpful, but not mandatory. If you need a refresher on Python, consider completing an online primer such as [Codecademy](http://www.codecademy.com/en/tracks/python).
+This course is recommended for students who are familiar with programming at least at the level of CS106A and want to translate their programming knowledge to Python with the goal of becoming proficient in the scientific computing and data science stack. Lectures will be interactive with a focus on real-world applications of scientific computing. Technologies covered include NumPy, SciPy, pandas, scikit-learn, and others. Topics will be chosen from Linear Algebra, Optimization, Machine Learning, and Data Science. Prior knowledge of programming will be assumed, and some familiarity with Python is helpful, but not mandatory. If you need a refresher on Python, consider completing an online primer such as [Codecademy](http://www.codecademy.com/en/tracks/python).
 
 ### Scientific Computing
 Expect to work with linear algebra, optimization, statistics, or similar scientific-computing topics. Prior exposure to simulation, machine learning, or data analysis projects will make the pace more comfortable.
@@ -33,7 +33,7 @@ During the course, we will mainly be using Jupyter Notebook. Jupyter Notebooks c
 - To earn credit you must reach at least 70% of the total points (final cutoffs may shift slightly if assignments change).
 - Each late day costs 10% of your homework score (e.g., if you get 80\% points of the homework, but a day late, you will get 72\% points).
 - Assignments more than two days late **beyond** the late-day grace window will not be accepted.
-- Please attend lectures in person, there will be 8 lecture sessions in total (excluding the first week, thanksgiving, and end-of-quarter period), I would expect you to attend at least [TBA] of them. Lectures are somewhat independent, so if you find a particular topic less interesting, you can skip it (but you still need to complete the homework assignments). I still encourage you to attend all lectures in case you have questions regarding a specific topic.
+- Please attend lectures in person, there will be 8 lecture sessions in total (excluding the first week, Thanksgiving, and end-of-quarter period), I would expect you to attend at least [TBA] of them. Lectures are somewhat independent, so if you find a particular topic less interesting, you can skip it (but you still need to complete the homework assignments). I still encourage you to attend all lectures in case you have questions regarding a specific topic.
 - There is **no** final exam or final project.
 
 ## Late-Day Policy
