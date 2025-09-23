@@ -9,7 +9,7 @@ We focus on the slice of Python that powers scientific computing and data scienc
 
 ## Lecture Schedule and Outline
 - **Week 1 (Wednesday, 09/24): Python Basics**
-  Lecture Notes: Colab notebook (to be added)
+  Lecture Notes: [Lecture 1 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_1_Python_Basics.ipynb)
 - **Week 2 (Wednesday, 10/01): Object-Oriented Programming in Python**
   Lecture Notes: Colab notebook (to be added)
 - **Week 3 (Wednesday, 10/08): Introduction to NumPy**
