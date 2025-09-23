@@ -1,6 +1,6 @@
 # Software
 
-**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Google Colab](google-colab.md) · [Software](software.md) · [Local Jupyter](local-jupyter.md)
+**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Software](software.md)
 
 During the course, we will mainly be using Jupyter Notebook. Jupyter Notebooks can either be run locally (e.g., using Anaconda) or in the cloud (e.g., using Google Colab). We will be distributing the lecture materials as Google Colab notebooks, but you are welcome to download them and run them locally.
 

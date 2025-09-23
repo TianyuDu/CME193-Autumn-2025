@@ -36,9 +36,7 @@ nav:
   - Home: index.md
   - Schedule: schedule.md
   - Homework: homework.md
-  - Google Colab: google-colab.md
   - Software: software.md
-  - Local Jupyter: local-jupyter.md
 
 plugins:
   - search

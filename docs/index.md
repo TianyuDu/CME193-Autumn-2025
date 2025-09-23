@@ -1,6 +1,6 @@
 ## Introduction to Scientific Python
 
-**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Google Colab](google-colab.md) · [Software](software.md) · [Local Jupyter](local-jupyter.md)
+**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Software](software.md)
 
 ## Course Description
 This one-unit workshop is aimed at students who already know how to program (CS106A or equivalent) and want to become fluent in the scientific Python stack. Each 50-minute meeting highlights real scientific-computing workflows with live coding in Google Colab. We will practice with NumPy, SciPy, pandas, scikit-learn, PyTorch, and companion tools drawn from linear algebra, optimization, machine learning, and data science.

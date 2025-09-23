@@ -1,6 +1,6 @@
 # Class Schedule
 
-**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Google Colab](google-colab.md) · [Software](software.md) · [Local Jupyter](local-jupyter.md)
+**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Software](software.md)
 
 Note: this course schedule is tentative and subject to change.
 
