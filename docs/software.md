@@ -1,6 +1,10 @@
+---
+title: Software
+nav_order: 4
+---
 # Software
 
-**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Software](software.md)
+**Pages:** [Course Description]({% link index.md %}) · [Class Schedule]({% link schedule.md %}) · [Homework]({% link homework.md %}) · [Software]({% link software.md %})
 
 During the course, we will mainly be using Jupyter Notebook. Jupyter Notebooks can either be run locally (e.g., using Anaconda) or in the cloud (e.g., using Google Colab). We will be distributing the lecture materials as Google Colab notebooks, but you are welcome to download them and run them locally.
 
@@ -19,7 +23,7 @@ Google Colab lets you run Jupyter notebooks in the cloud without installing Pyth
 1.  Log in to your Google account.
 2. (Optional) Claim the free pro account for education to access more compute resources [here](https://blog.google/outreach-initiatives/education/colab-higher-education/)
 3. Go through the official Colab tutorial [here](https://colab.research.google.com/notebooks/intro.ipynb).
-4. Open the shared Colab link from the [schedule](schedule.md) or [homework](homework.md) pages.
+4. Open the shared Colab link from the [schedule]({% link schedule.md %}) or [homework]({% link homework.md %}) pages.
 5. Click **Open in Playground** to make an editable copy.
 6. Execute a cell with `Ctrl` + `Enter` (`Cmd` + `Enter` on macOS).
 7. Add a new cell with the **+ Code** button or by pressing `B` while a cell is selected.
