@@ -1,10 +1,6 @@
----
-title: Class Schedule
-nav_order: 2
----
 # Class Schedule
 
-**Pages:** [Course Description]({% link index.md %}) · [Class Schedule]({% link schedule.md %}) · [Homework]({% link homework.md %}) · [Software]({% link software.md %})
+**Pages:** [Course Description](index.md) · [Class Schedule](schedule.md) · [Homework](homework.md) · [Software](software.md)
 
 Note: this course schedule is tentative and subject to change.
 
