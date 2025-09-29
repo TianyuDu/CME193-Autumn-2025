@@ -24,7 +24,7 @@ We focus on the slice of Python that powers scientific computing and data scienc
   Lecture Notes: Colab notebook (to be added)
   Additional Resource: Hands-on Machine Learning companion notebooks (to be added)
 - **Week 8 (Wednesday, 11/12): Deep Learning with PyTorch**
-  Lecture: Colab notebook (to be added)
+  Lecture Notes: Colab notebook (to be added)
   Supplement: Neural network slides (to be added)
 - **Week 9 (Wednesday, 11/19): Introduction to Transformers**
   Lecture Notes: Colab notebook (to be added)

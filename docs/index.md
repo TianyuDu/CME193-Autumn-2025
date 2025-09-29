@@ -12,8 +12,8 @@ This one-unit workshop is aimed at students who already know how to program (CS1
 - **Location:** [200-205 (Lane History Corner, 450 Jane Stanford Way, across the street from the Lathrop Library)](http://campus-map.stanford.edu/?srch=200-205).
 - **Meeting Time:** Wednesdays, 3:30 PM – 4:20 PM, September 22 – December 5, 2025.
 - **Units:** 1.
-- **Grading:** Satisfactory / No-Credit.
-- **Office Hours:** Huang Basement, Time to be announced (please fill up the survey form in the first week so that I can better schedule, likely to be before the class on Wednesdays).
+- **Grading:** Satisfactory/No Credit.
+- **Office Hours:** Huang Basement, Wednesday, 11:00 AM to 1:00 PM.
 
 ## Prerequisites
 ### Programming
@@ -23,13 +23,13 @@ This course is recommended for students who are familiar with programming at lea
 Expect to work with linear algebra, optimization, statistics, or similar scientific-computing topics. Prior exposure to simulation, machine learning, or data analysis projects will make the pace more comfortable.
 
 ## Format
-CME193 meets for 9 weeks this autumn quarter, 50 minutes per week. Sessions are hands-on and use shared Google Colab notebooks so you can experiment with the code as we go. In-lecture exercises at the end of each meeting reinforce the techniques introduced that day. Please refer to the [Class Schedule](schedule.md) for the detailed schedule.
+CME 193 meets for 9 weeks this autumn quarter, 50 minutes per week. Sessions are hands-on and use shared Google Colab notebooks so you can experiment with the code as we go. In-lecture exercises at the end of each meeting reinforce the techniques introduced that day. Please refer to the [Class Schedule](schedule.md) for the detailed schedule.
 
 ## Software
 During the course, we will mainly be using Jupyter Notebook. Jupyter Notebooks can either be run locally (e.g., using Anaconda) or in the cloud (e.g., using Google Colab). Please refer to the [Software](software.md) page for more details. We will be distributing the lecture materials as Google Colab notebooks, but you are welcome to download them and run them locally.
 
 ## Grading
-- The course is credit/no-credit and includes two graded homework assignments.
+- The course uses Satisfactory/No Credit grading and includes two graded homework assignments.
 - To earn credit you must reach at least 70% of the total points (final cutoffs may shift slightly if assignments change).
 - Each late day costs 10% of your homework score (e.g., if you get 80\% points of the homework, but a day late, you will get 72\% points).
 - Assignments more than two days late **beyond** the late-day grace window will not be accepted.

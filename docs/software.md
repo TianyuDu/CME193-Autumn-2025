@@ -183,7 +183,7 @@ You can run Colab’s front-end against your own machine’s Jupyter kernel.
 
 
 # Running Notebooks Locally
-There are several ways to install Python locally; we recommend using conda. There are two common conda distributions: Anaconda (comes with a GUI and preinstalled packages) and Miniconda (bare-bones CLI tools). Please refer to the [Anaconda guide](https://www.anaconda.com/docs/getting-started/getting-started) for more details. You can choose either version depending on your preference. If you are not comfortable with the command line, we'd recommend using the Anaconda, which comes with a GUI called Anaconda Navigator.
+There are several ways to install Python locally; we recommend using conda. There are two common conda distributions: Anaconda (comes with a GUI and preinstalled packages) and Miniconda (bare-bones CLI tools). Please refer to the [Anaconda guide](https://www.anaconda.com/docs/getting-started/getting-started) for more details. You can choose either version depending on your preference. If you are not comfortable with the command line, we'd recommend using Anaconda, which comes with a GUI called Anaconda Navigator.
 
 ## Anaconda (recommended and comes with a graphical user interface)
 1. Install [Anaconda](https://www.anaconda.com) and choose the Python 3.12 distribution. This bundles Python, Jupyter Notebook, and common scientific packages.
