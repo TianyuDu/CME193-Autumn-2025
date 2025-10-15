@@ -14,11 +14,11 @@ We focus on the slice of Python that powers scientific computing and data scienc
   Lecture Notes: [Lecture 2 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_2_Intro_to_OOP.ipynb)
 - **Week 3 (Wednesday, 10/08): Introduction to Python Arrays with NumPy and PyTorch**
   Lecture Notes: [Lecture 3 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_3_Array_and_Tensor_Operations.ipynb)
-- **Week 4 (Wednesday, 10/15): Linear Algebra with NumPy**
+- **Week 4 (Wednesday, 10/15): **Data Management and Manipulation with Pandas**
+  Lecture Notes: [Lecture 4 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_4_Data_Management_with_Pandas.ipynb)
+- **Week 5 (Wednesday, 10/22): Introduction to SciPy**
   Lecture Notes: Colab notebook (to be added)
-- **Week 5 (Wednesday, 10/22): Introduction to pandas**
-  Lecture Notes: Colab notebook (to be added)
-- **Week 6 (Wednesday, 10/29): Introduction to SciPy**
+- **Week 6 (Wednesday, 10/29): Introduction to scikit-learn**
   Lecture Notes: Colab notebook (to be added)
 - **Week 7 (Wednesday, 11/05): Introduction to scikit-learn**
   Lecture Notes: Colab notebook (to be added)
