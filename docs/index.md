@@ -13,7 +13,7 @@ This one-unit workshop is aimed at students who already know how to program (CS1
 - **Meeting Time:** Wednesdays, 3:30 PM – 4:20 PM, September 22 – December 5, 2025.
 - **Units:** 1.
 - **Grading:** Satisfactory/No Credit.
-- **Office Hours:** Huang Basement, Wednesday, 11:00 AM to 1:00 PM.
+- **Office Hours:** Schedule a meeting with the instructor for help. Please see the course announcement for the link for the office hours.
 
 ## Prerequisites
 ### Programming
