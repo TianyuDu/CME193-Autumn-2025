@@ -16,17 +16,17 @@ We focus on the slice of Python that powers scientific computing and data scienc
   Lecture Notes: [Lecture 3 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_3_Array_and_Tensor_Operations.ipynb)
 - **Week 4 (Wednesday, 10/15): **Data Management and Manipulation with Pandas**
   Lecture Notes: [Lecture 4 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_4_Data_Management_with_Pandas.ipynb)
-- **Week 5 (Wednesday, 10/22): Introduction to SciPy**
+- **Week 5 (Wednesday, 10/22): Introduction to Visualization with Matplotlib and Seaborn**
+  Lecture Notes: [Lecture 5 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_5_Data_Visualization.ipynb)
+- **Week 6 (Wednesday, 10/29): Introduction to statistical modeling with scikit-learn**
   Lecture Notes: Colab notebook (to be added)
-- **Week 6 (Wednesday, 10/29): Introduction to scikit-learn**
-  Lecture Notes: Colab notebook (to be added)
-- **Week 7 (Wednesday, 11/05): Introduction to scikit-learn**
+- **Week 7 (Wednesday, 11/05): Advanced machine learning with scikit-learn**
   Lecture Notes: Colab notebook (to be added)
   Additional Resource: Hands-on Machine Learning companion notebooks (to be added)
 - **Week 8 (Wednesday, 11/12): Deep Learning with PyTorch**
   Lecture Notes: Colab notebook (to be added)
   Supplement: Neural network slides (to be added)
-- **Week 9 (Wednesday, 11/19): Introduction to Transformers**
+- **Week 9 (Wednesday, 11/19): Introduction to Hugging Face Transformers**
   Lecture Notes: Colab notebook (to be added)
 - **Week 10 (Wednesday, 11/26): Thanksgiving Break, No Class.**
 - **Week 11 (Wednesday, 12/03): End of Quarter Period, No Class.**
