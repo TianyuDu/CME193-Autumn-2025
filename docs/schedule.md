@@ -21,8 +21,7 @@ We focus on the slice of Python that powers scientific computing and data scienc
 - **Week 6 (Wednesday, 10/29): Introduction to statistical modeling with scikit-learn**
   Lecture Notes: [Lecture 6 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_6_Intro_to_Statistical_Learning.ipynb)
 - **Week 7 (Wednesday, 11/05): Advanced machine learning with scikit-learn**
-  Lecture Notes: Colab notebook (to be added)
-  Additional Resource: Hands-on Machine Learning companion notebooks (to be added)
+  Lecture Notes: [Lecture 7 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_7_More_Statistical_Learning.ipynb)
 - **Week 8 (Wednesday, 11/12): Deep Learning with PyTorch**
   Lecture Notes: Colab notebook (to be added)
   Supplement: Neural network slides (to be added)
