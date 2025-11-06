@@ -6,4 +6,4 @@ All assignments are distributed as Google Colab notebooks and must be submitted 
 
 ## Autumn 2025 Assignments
 - **Homework 1 (Due Oct. 31, 2025, 11:59 PM)** — [Ordinary Least Squares and Regularization with Ridge Regression](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/homeworks/CME193_HW1_OLS.ipynb)
-- **Homework 2** — To be announced.
+- **Homework 2 (Due Nov. 28, 2025, 11:59 PM)** — [Bike Sharing Pipelines with Time-Aware CV and Shallow ResNets](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/homeworks/CME193_HW2_Sklearn_and_PyTorch.ipynb)
