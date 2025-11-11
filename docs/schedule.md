@@ -23,8 +23,7 @@ We focus on the slice of Python that powers scientific computing and data scienc
 - **Week 7 (Wednesday, 11/05): Advanced machine learning with scikit-learn**
   Lecture Notes: [Lecture 7 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_7_More_Statistical_Learning.ipynb)
 - **Week 8 (Wednesday, 11/12): Deep Learning with PyTorch**
-  Lecture Notes: Colab notebook (to be added)
-  Supplement: Neural network slides (to be added)
+  Lecture Notes: [Lecture 8 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_8_Neural_Networks_and_PyTorch.ipynb)
 - **Week 9 (Wednesday, 11/19): Introduction to Hugging Face Transformers**
   Lecture Notes: Colab notebook (to be added)
 - **Week 10 (Wednesday, 11/26): Thanksgiving Break, No Class.**
