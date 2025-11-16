@@ -25,7 +25,7 @@ We focus on the slice of Python that powers scientific computing and data scienc
 - **Week 8 (Wednesday, 11/12): Deep Learning with PyTorch**
   Lecture Notes: [Lecture 8 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_8_Neural_Networks_and_PyTorch.ipynb)
 - **Week 9 (Wednesday, 11/19): Introduction to Hugging Face Transformers**
-  Lecture Notes: Colab notebook (to be added)
+  Lecture Notes: [Lecture 9 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_9_transformers.ipynb)
 - **Week 10 (Wednesday, 11/26): Thanksgiving Break, No Class.**
 - **Week 11 (Wednesday, 12/03): End of Quarter Period, No Class.**
 
