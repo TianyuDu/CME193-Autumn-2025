@@ -27,7 +27,9 @@ We focus on the slice of Python that powers scientific computing and data scienc
 - **Week 9 (Wednesday, 11/19): Introduction to Hugging Face Transformers**
   Lecture Notes: [Lecture 9 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_9_transformers.ipynb)
 - **Week 10 (Wednesday, 11/26): Thanksgiving Break, No Class.**
-- **Week 11 (Wednesday, 12/03): End of Quarter Period, No Class.**
+- **Week 11 (Wednesday, 12/03): Introduction to OpenAI API**
+  Lecture Notes: [Lecture 10 Notebook](https://github.com/TianyuDu/CME193-Autumn-2025/blob/main/notebooks/Lecture_10_OpenAI_API.ipynb)
+- **Week 12 (Wednesday, 12/10): End of Quarter Period, No Class.**
 
 ## Historical Archives
 Looking for earlier iterations? Browse snapshots that preserve prior term content: [Spring 2025](https://web.stanford.edu/class/cme193/index.html)
